@@ -77,6 +77,10 @@ class CardAlbum extends HTMLElement {
 			text-align: center;
 		}
 
+		.card .card-top img {
+			border-radius: 10px;
+		}
+
 		.card .card-body .title-album {
 			font-weight: 600;
 			text-align: center;
